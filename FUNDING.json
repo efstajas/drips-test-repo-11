@@ -1,7 +1,7 @@
 {
   "drips": {
-    "sepolia": {
-      "ownedBy": "0x44f59d8C47EF6Fa8fcF477Bfead562268Dc6C8AE"
+    "goerli": {
+      "ownedBy": "0x71E686C1B95e8A1faA636Ea046b97eA985E248d0"
     }
   }
 }
